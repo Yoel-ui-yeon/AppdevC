@@ -8,7 +8,7 @@ const options = {
     'Content-Type': 'application/json',
   },
 };
-
+//for login
 export async function authLogin({ email, password }) {
   console.log('[authLogin] POST', BASE_URL + '/login', { email });
   let response;
