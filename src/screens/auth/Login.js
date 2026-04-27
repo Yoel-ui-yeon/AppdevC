@@ -50,7 +50,7 @@ const Login = () => {
           marginBottom: 16,
         }}
       >
-        Find your cosplay inspiration and embrace your creativity!
+        Find your cosplay and embrace your creativity with full colors!
       </Text>
 
       {error && (

@@ -3,6 +3,7 @@ import React from 'react';
 import { Image, Text, TouchableOpacity, View } from 'react-native';
 import { IMG, ROUTES, COLORS } from '../utils';
 
+//for homescreen to profile screen 
 const HomeScreen = () => {
   const navigation = useNavigation();
   return (

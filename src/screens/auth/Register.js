@@ -2,6 +2,7 @@ import { Text, TouchableOpacity, View } from 'react-native';
 import { ROUTES, COLORS } from '../../utils';
 import navigations from '../../navigations';
 
+//register screen to login screen
 const Register = () => {
   return (
     <View

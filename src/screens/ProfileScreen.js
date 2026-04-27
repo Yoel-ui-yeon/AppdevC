@@ -3,6 +3,7 @@ import { IMG, COLORS } from '../utils';
 import { userLoginReset } from '../app/actions';
 import { useDispatch } from 'react-redux';
 
+//profile screen to home screen
 const ProfileScreen = () => {
   const dispatch = useDispatch();
   return (
