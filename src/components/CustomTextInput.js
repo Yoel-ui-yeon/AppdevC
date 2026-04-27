@@ -9,7 +9,7 @@ const CustomTextInput = ({
   containerStyle,
   textStyle,
 }) => {
-  const { width, height } = Dimensions.get('window');
+  const { width } = Dimensions.get('window');
 
   return (
     <View style={containerStyle}>
